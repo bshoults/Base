@@ -1,0 +1,19 @@
+{
+  "name": "Base",
+  "version": "0.0.1",
+  "description": "Base Website",
+  "author": "Ben Shoults",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^7.1.4",
+    "css-mqpacker": "^6.0.1",
+    "cssnano": "^3.10.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-postcss": "^7.0.0",
+    "gulp-uglify": "^3.0.0",
+    "postcss": "^6.0.14",
+    "rename": "^1.0.4",
+    "tailwindcss": "^0.1.4"
+  }
+}

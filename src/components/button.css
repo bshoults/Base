@@ -1,0 +1,8 @@
+.button {
+  @apply
+  .mx-auto .px-8 .py-4 .inline-block .rounded-full .bg-red .text-center .text-white .no-underline .font-bold
+}
+
+.button:hover {
+  .bg-red-dark
+}

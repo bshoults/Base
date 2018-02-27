@@ -1,0 +1,4 @@
+.bg-gradient {
+  background: red;
+    background-image: linear-gradient(to right, config('colors.blue'), config('colors.blue-dark'));
+  }
